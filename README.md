@@ -1,4 +1,4 @@
-# Java-Simplex-Noise-Algorithm-Program
+# Java-Simplex-Noise-Algorithm-Program-2D-3D-4D
 A Java program that runs the Simplex Noise algorithm. Feel free to use this for whatever you want.
 
 This is a java program that runs the Simplex Noise algorithm. You can change the colors by going into the 'OpenSimplexNoiseTest' class
